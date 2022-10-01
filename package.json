@@ -1,0 +1,25 @@
+{
+  "name": "@schoero/tsconfig",
+  "version": "0.1.0",
+  "description": "Shared tsconfig for my personal projects",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schoero/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "author": "Roger Schönbächler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schoero/tsconfig/issues"
+  },
+  "homepage": "https://github.com/schoero/tsconfig#readme"
+}
