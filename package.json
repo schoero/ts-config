@@ -1,5 +1,5 @@
 {
-  "name": "@schoero/tsconfig",
+  "name": "@schoero/ts-config",
   "version": "0.2.0",
   "description": "Shared tsconfig for my personal projects",
   "main": "tsconfig.json",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schoero/tsconfig.git"
+    "url": "git+https://github.com/schoero/ts-config.git"
   },
   "keywords": [
     "tsconfig"
@@ -19,7 +19,7 @@
   "author": "Roger Schönbächler",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/schoero/tsconfig/issues"
+    "url": "https://github.com/schoero/ts-config/issues"
   },
-  "homepage": "https://github.com/schoero/tsconfig#readme"
+  "homepage": "https://github.com/schoero/ts-config#readme"
 }
