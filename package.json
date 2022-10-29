@@ -1,25 +1,28 @@
 {
-  "name": "@schoero/ts-config",
   "version": "0.2.0",
+  "name": "@schoero/ts-config",
   "description": "Shared tsconfig for my personal projects",
-  "main": "tsconfig.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "keywords": [
+    "tsconfig"
+  ],
+  "license": "MIT",
+  "author": "Roger Schönbächler",
+  "homepage": "https://github.com/schoero/ts-config#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/schoero/ts-config.git"
   },
-  "keywords": [
-    "tsconfig"
-  ],
-  "engines": {
-    "node": ">=14"
-  },
-  "author": "Roger Schönbächler",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/schoero/ts-config/issues"
   },
-  "homepage": "https://github.com/schoero/ts-config#readme"
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "@schoero/eslint-config": "^1.14.0"
+  }
 }

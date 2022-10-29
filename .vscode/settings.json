@@ -1,0 +1,6 @@
+{
+  "eslint.validate": ["json", "jsonc", "json5"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
