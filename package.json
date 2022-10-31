@@ -16,6 +16,9 @@
     "url": "https://github.com/schoero/ts-config/issues"
   },
   "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
