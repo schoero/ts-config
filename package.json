@@ -2,9 +2,6 @@
   "version": "0.2.2",
   "name": "@schoero/ts-config",
   "description": "Shared tsconfig for my personal projects",
-  "keywords": [
-    "tsconfig"
-  ],
   "license": "MIT",
   "author": "Roger Schönbächler",
   "homepage": "https://github.com/schoero/ts-config#readme",
@@ -26,6 +23,9 @@
     "node": ">=14"
   },
   "dependencies": {
-    "@schoero/eslint-config": "^1.14.0"
-  }
+    "@schoero/eslint-config": "^1.24.0"
+  },
+  "keywords": [
+    "tsconfig"
+  ]
 }
