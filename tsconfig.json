@@ -13,6 +13,8 @@
     "noEmitOnError": true,
     "noImplicitAny": true,
     "noImplicitOverride": true,
+    "noImplicitReturns": false,
+    "noImplicitThis": true,
     "noUncheckedIndexedAccess": true,
     "outDir": "lib",
     "pretty": true,
