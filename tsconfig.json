@@ -15,7 +15,7 @@
     "noImplicitOverride": true,
     "noImplicitReturns": false,
     "noImplicitThis": true,
-    "noUncheckedIndexedAccess": true,
+    "noUncheckedIndexedAccess": false,
     "outDir": "lib",
     "pretty": true,
     "sourceMap": true,
