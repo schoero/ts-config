@@ -16,7 +16,6 @@
     "noImplicitReturns": false,
     "noImplicitThis": true,
     "noUncheckedIndexedAccess": false,
-    "outDir": "lib",
     "pretty": true,
     "sourceMap": true,
     "strict": true,
