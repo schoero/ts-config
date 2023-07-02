@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "name": "@schoero/ts-config",
   "description": "Shared tsconfig for my personal projects",
   "license": "MIT",
