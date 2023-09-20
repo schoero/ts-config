@@ -21,7 +21,6 @@
     "noUnusedLocals": false,
     "pretty": true,
     "resolveJsonModule": true,
-    "rootDir": ".",
     "sourceMap": true,
     "strict": true,
     "strictNullChecks": true,
